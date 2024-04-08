@@ -15,7 +15,7 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
---
+--  No encuentro los ejercicios de esta práctica
 -- Dumping routines for database 'ejemplo1'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
